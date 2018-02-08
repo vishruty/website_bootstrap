@@ -69,3 +69,15 @@ img {
 		align-items: center;
 	}
 }
+
+#mybutton{
+	
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+}
+
+#contact_spacing{
+	margin-right: 2rem; 
+	
+}
